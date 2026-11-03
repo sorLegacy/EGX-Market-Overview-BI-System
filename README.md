@@ -92,8 +92,9 @@ The relational star schema is hosted on **Microsoft SQL Server** (`Sigma_Cap`), 
 │   ├── 02_insert_cleaned_investors.sql        # Investor merge/upsert script
 │   ├── 03_create_computed_database_schema.sql # Production star schema DDL
 │   └── 04_cleanup_old_tables.sql              # Legacy object cleanup script
-├── Project_2_Data_Specification_and_Deliverables.md  # Formal assignment submission document
-├── Project 2 requirements.txt                         # Original project requirements specification
+├── Docs /
+|   ├── Project_2_Data_Specification_and_Deliverables.md  # Formal assignment submission document
+|   ├── Project 2 requirements.txt                         # Original project requirements specification
 ├── STAR_SCHEMA_DESIGN.md                              # Detailed dimensional modeling architecture
 └── README.md                                          # Project overview and documentation
 ```

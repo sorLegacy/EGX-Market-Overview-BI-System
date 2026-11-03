@@ -1,0 +1,13 @@
+Date,Nationality,Category,Buy_Value_Mn,Sell_Value_Mn,Net_Value_Mn,Turnover_Mn,Trading_Pct
+2026-10-21,Egyptian,Retail,3169.54,3194.70,-25.15,6364.24,77.19
+2026-10-21,Egyptian,Institutional,556.22,565.38,-9.15,1121.60,13.60
+2026-10-21,Arab,Retail,113.21,106.41,6.80,219.62,2.66
+2026-10-21,Arab,Institutional,18.26,24.11,-5.85,42.37,0.51
+2026-10-21,Foreign,Retail,0.81,3.29,-2.48,4.10,0.05
+2026-10-21,Foreign,Institutional,264.50,228.67,35.84,493.17,5.98
+2026-10-23,Egyptian,Retail,6371.36,5458.29,913.07,11829.65,72.19
+2026-10-23,Egyptian,Institutional,1020.84,1268.55,-247.71,2289.39,13.97
+2026-10-23,Arab,Retail,122.03,284.88,-162.85,406.92,2.48
+2026-10-23,Arab,Institutional,23.82,100.78,-76.97,124.60,0.76
+2026-10-23,Foreign,Retail,6.11,2.84,3.28,8.95,0.05
+2026-10-23,Foreign,Institutional,649.18,1078.00,-428.82,1727.18,10.54

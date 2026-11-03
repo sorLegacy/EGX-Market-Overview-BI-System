@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+pipeline_log.txt
+scraper_log.txt
+load_log.txt
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Operating System
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Power BI Local User Cache
+*.tmp

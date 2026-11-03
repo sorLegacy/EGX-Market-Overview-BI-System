@@ -1,0 +1,41 @@
+Project Assignment 2
+Sigma Capital Market Overview Analysis
+Please review the Sigma Capital Market Overview page and identify all available data points that can be utilized for reporting and dashboarding purposes.
+
+Market Overview- Sigma Capital:https://www.sigma-cap.com/main/fl_market_page.overview?u_sess=
+
+QSE - Trading Reports : https://www.qe.com.qa/interactive-trading-reports
+
+Scope Includes
+Investor Participation Breakdown
+Egyptian Investors %
+Arab Investors %
+Foreign Investors %
+Local Institutions %
+Retail vs Institutional Split
+Trading Activity by Investor Type
+Buy Value
+Sell Value
+Net Buy/Sell
+Trading Percentage
+Market Breadth Metrics
+Advancing Stocks
+Declining Stocks
+Unchanged Stocks
+Advance/Decline Ratio
+Sector Activity
+Sector Name
+Turnover Value
+Market Share %
+Block Trades
+Company Name
+Quantity
+Value
+Number of Trades
+Deliverables
+Please provide:
+
+Complete inventory of all available fields.
+Source location/page section for each field.
+Whether the field is directly extractable or requires calculation.
+Dashboard recommendations and KPI suggestions.
